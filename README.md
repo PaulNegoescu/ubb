@@ -3,4 +3,4 @@
 
 Ceva in plus
 
-O linie pe master aici
+O linie pe ster aici
